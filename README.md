@@ -4,6 +4,7 @@ css-development
 CSS Development workflow and tools
 
 Todo:
+  - Keyboard Shortcuts
   - Twitter Bootstrap
   - SASS as in SCSS
   - Compass
