@@ -4,5 +4,5 @@ css-development
 CSS Development workflow and tools
 
 Todo:
-- SASS
+- SASS as in SCSS
 - Compass
