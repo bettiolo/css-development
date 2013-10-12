@@ -10,3 +10,6 @@ Todo:
   - Emmet (in Sublime and WebStorm)
   - BrowserStack to test on multiple platforms
   - AppTwack to get screenshots from multiple devices
+
+Other:
+  - [Adobe Edge](http://html.adobe.com/edge/)
