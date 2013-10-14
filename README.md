@@ -1,7 +1,7 @@
 css-development
 ===============
 
-CSS Development workflow and tools
+CSS and UX Development workflow and tools
 
 Todo:
   - Twitter Bootstrap
@@ -11,6 +11,7 @@ Todo:
   - BrowserStack to test on multiple platforms
   - AppTwack to get screenshots from multiple devices
   - CSSLint for checking css
+  - Keyboard shortcuts support
 
 Other:
   - [Adobe Edge](http://html.adobe.com/edge/)
