@@ -13,6 +13,7 @@ Todo:
   - CSSLint for checking css
   - Keyboard shortcuts support
   - http://smacss.com/
+  - https://github.com/yui/pure
 
 Other:
   - [Adobe Edge](http://html.adobe.com/edge/)
