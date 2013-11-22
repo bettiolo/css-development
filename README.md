@@ -12,6 +12,7 @@ Todo:
   - AppTwack to get screenshots from multiple devices
   - CSSLint for checking css
   - Keyboard shortcuts support
+  - http://smacss.com/
 
 Other:
   - [Adobe Edge](http://html.adobe.com/edge/)
